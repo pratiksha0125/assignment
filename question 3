@@ -16,7 +16,7 @@ struct books
      for(int i=0;i<5;i++)
      {
          printf("Book %d:\n",i+1);
-         printf("Ttile: ");
+         printf("Title: ");
          scanf("%s", bookArray[i].title);
          printf("Author: ");
          scanf("%s", bookArray[i].author);
