@@ -1,3 +1,5 @@
+//Define a structure named 'State' which contains four fields name, population,lit_rate, income. Define structure variable st1. Assign the values for your structure members as Maharashtra, 1000000, 5.8,6000.00 respectively.
+
 #include<stdio.h>
 struct State
 {
